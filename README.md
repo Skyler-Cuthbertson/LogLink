@@ -44,11 +44,6 @@ We reserve the right to suspend or terminate access to LogLink at our discretion
 We may modify or update these terms from time to time. We will notify users of any changes by posting the new Terms of Service within the app. Continued use of the app after changes are posted constitutes your acceptance of the updated terms.
 
 
-**8. Governing Law**
-
-These terms and conditions are governed by and construed in accordance with the laws of Texas, without regard to its conflict of law principles.
-
-
 **Contact Information**
 
 If you have questions regarding these terms, please contact us at LogLinkApp@gmail.com.
